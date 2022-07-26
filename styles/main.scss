@@ -1,0 +1,4 @@
+// Place SASS variable overrides here
+@use 'vuetify/styles' with (
+  $font-size-root: 25px,
+);
